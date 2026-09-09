@@ -3,13 +3,13 @@ html {
     background-color: white;
 }
 
-body {
+div {
     text-align: center;
     background-color: gray;
     color: white;
     width: 850px;
     height: 600px;
-    margin: 30px auto;
+    margin: 0px auto;
 }
 
 img {
